@@ -1,0 +1,16 @@
+.itemDetailContainer{
+    background-color: white;
+    padding: 12px 12px;
+}
+.detailPrice{
+    margin-bottom: 50px;
+}
+.productInfoTitle{
+    font-size: 24px;
+    font-weight: bold;
+    padding-top: 50px;
+    margin-bottom: 20px;
+}
+.productInfo{
+    color: #666;
+}
